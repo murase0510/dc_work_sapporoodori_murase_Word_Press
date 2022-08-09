@@ -1,7 +1,7 @@
-<?php get_header(); ?>     
 <!DOCTYPE html>
 <html lang="ja">
 <body>
+    <?php get_header(); ?>     
     <div id="slide">
         <ul class="slide-inner">
             <li></li>
